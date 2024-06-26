@@ -1,0 +1,29 @@
+*{
+    color: black;
+    background-color:lightgreen
+}
+label{size: 100px;
+    background-color: maroon;
+
+}
+div{
+    display: inline;
+} button{color:white;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 8px;
+    size: 100px; ;
+    margin-left: 25px;
+}
+h1{ 
+    font-family:'Lucida Sans';
+    border-style:solid ;
+    padding-left: 320px;
+    border-radius: 30px;
+}
+ {
+    background-color:yellow ;
+}
+span{
+    margin-left: 25px;
+}
